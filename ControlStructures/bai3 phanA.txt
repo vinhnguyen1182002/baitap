@@ -1,0 +1,1 @@
+nếu n = 0 hoặc n âm thì chương trình chạy sẽ bị sai 
